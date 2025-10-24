@@ -1,0 +1,16 @@
+{
+  "habitos": [
+    {
+      "id": 1,
+      "titulo": "Hábitos de tabagismo",
+      "pergunta": "Você é ou foi fumante passivo? (Conviveu com fumantes por longos períodos?)",
+      "opcoes": [
+        "Convivi menos de 10",
+        "Convivi de 10 a 20",
+        "Convivi de 21 a 40",
+        "Quase não tive contato",
+        "Nunca tive contato"
+      ]
+    }
+  ]
+}
